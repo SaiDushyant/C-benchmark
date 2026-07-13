@@ -1,0 +1,5 @@
+{
+  "name": "http-benchmark",
+  "version": "0.1.0",
+  "dependencies": ["boost-beast", "uwebsockets", "libpqxx"]
+}
